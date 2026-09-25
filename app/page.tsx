@@ -3,11 +3,8 @@ import Link from "next/link"
 import {
   Shield,
   ArrowRight,
-  Building,
   Building2,
   CheckCircle2,
-  Lock,
-  Music,
   Scale,
   Mail,
   Calendar,
