@@ -81,7 +81,7 @@ export function LegalHeader() {
                     href={link.href}
                     className={`inline-flex items-center gap-2 rounded-lg px-3 py-1.5 text-sm font-medium transition-colors ${
                       active
-                        ? "bg-primary text-padetunes shadow-xs"
+                        ? "bg-transparent text-padetunes shadow-xs"
                         : "text-muted-foreground hover:bg-muted hover:text-foreground"
                     }`}
                   >
